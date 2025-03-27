@@ -2,7 +2,8 @@
 
 Plugin attempts to fix glitches in GIMP 3 while non-destructively editing
 
-![image](https://github.com/user-attachments/assets/5c1f53dd-d0fb-4792-8bee-1e00a36bd558)
+![image](https://github.com/user-attachments/assets/316908e6-c905-493a-9a44-24d45ec9004c)
+
 
 
 ![image](https://github.com/user-attachments/assets/6b1b08c0-6cd1-4068-9494-3c0742a7eae3)

@@ -71,7 +71,7 @@ gegl_op_class_init (GeglOpClass *klass)
     "reference-hash", "coffeehousecrimeyt",
     "description", _("Filter to help repair a corrupt GEGL pipeline. Apply if you believe your non-destructive layers in GIMP 3 are glitching out"),  
     "gimp:menu-path", "<Image>/Filters/Generic",
-    "gimp:menu-label", _("Repair GEGL pipeline..."),
+    "gimp:menu-label", _("Repair pipeline..."),
  NULL);                               
 }
 

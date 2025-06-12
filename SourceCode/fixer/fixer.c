@@ -11,7 +11,7 @@
  *
  * You should have received a copy of the GNU Lesser General Public
  * License along with GEGL; if not, see <https://www.gnu.org/licenses/>.
- * Copyright 2006 Øyvind Kolås <pippin@gimp.org>
+ * Credit to Øvind Kolas (pippin) for major GEGL contributions
  * 2025, Beaver Repair GEGL pipeline
 * 
 * graph below
